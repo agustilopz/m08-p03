@@ -3,7 +3,7 @@
 **Crear directorios y archivos**
 - Desde tu carpeta principal (~/), crea un directorio llamado GitApellido1Nombre2425.
 
-```python
+```bash
 def saludo():
     print("Hola, mundo!")
 ```
