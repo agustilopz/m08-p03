@@ -1,0 +1,22 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos temporales de editores
+*.swp        # Archivos temporales de Vim
+*.swo        # Archivos de respaldo de Vim
+*.bak        # Archivos de respaldo
+*.tmp        # Archivos temporales
+
+# Ignorar archivos específicos de sistemas operativos
+.DS_Store    # Archivos de configuración de Mac
+Thumbs.db    # Archivos de Thumbnails en Windows
+
+# Ignorar carpetas de configuración de editores
+.vscode/     # Configuración de Visual Studio Code
+.idea/       # Configuración de JetBrains
+
+# Ignorar carpetas de dependencias de proyectos
+node_modules/ # Dependencias de Node.js
+
+# Ignorar configuraciones temporales de otros lenguajes
+*.sublime-workspace # Archivos de espacio de trabajo de Sublime Text
