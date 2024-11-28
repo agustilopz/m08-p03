@@ -21,14 +21,14 @@
 - Explica las diferencias entre las 2 preguntas anteriores.
 - Indica que comandos te da GitHub al crear un repositorio. Los encontrarás en el apartado …or create a new repository on the command line 
 - Vincula el repositorio remoto con el repositorio local.
-- 
+  
 **Actualización del Proyecto:**
 - Crea una nueva rama llamada feature/documentacion y cámbiate a ella.
 - Cambia a la nueva rama:
 Crea un archivo docs.md en la carpeta raíz. Escribe un resumen de las funcionalidades del proyecto.
 Haz un commit con el mensaje:
 Agregada documentación inicial del proyecto.
--Cambia a la rama main y usa git diff para comparar las diferencias entre main y feature/documentacion.
+- Cambia a la rama main y usa git diff para comparar las diferencias entre main y feature/documentacion.
 
 **Sincronización:**
 
@@ -43,7 +43,7 @@ Agregada documentación inicial del proyecto.
 
 **Borrado y recuperación:**
 
--Borra el archivo src/app.py usando un comando de terminal. Recupera el archivo con el comando necesario, lo vimos la semana pasada.
+- Borra el archivo src/app.py usando un comando de terminal. Recupera el archivo con el comando necesario, lo vimos la semana pasada.
 
 **Combina ramas:**
 - Desde main, haz un merge de feature/documentacion.
@@ -55,8 +55,8 @@ Agregada documentación inicial del proyecto.
 
 **Explora el proyecto desde el terminal:**
 
--Usa el comando necesario de Linux para listar el contenido de cada directorio.
--Muestra el contenido de los archivos finales con el comando necesario de Linux.
+- Usa el comando necesario de Linux para listar el contenido de cada directorio.
+- Muestra el contenido de los archivos finales con el comando necesario de Linux.
 
 
 Este es un proyecto de ámbito académico para practicar los comandos de Linux así como el Markdown.
