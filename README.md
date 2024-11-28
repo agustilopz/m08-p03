@@ -1,7 +1,10 @@
-### Práctica 3
+### Práctica 3 - Agustí López
 
 **Crear directorios y archivos**
 - Desde tu carpeta principal (~/), crea un directorio llamado GitApellido1Nombre2425.
+```bash
+mkdir GitLopezAgusti2425
+
 - Dentro del directorio GitApellido1Nombre2425, crea una subcarpeta llamada src usando rutas relativas.
 - Crea un archivo README.md en GitApellido1Nombre2425 con una breve descripción del proyecto, usa costantemente el terminal.
 
