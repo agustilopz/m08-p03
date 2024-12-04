@@ -40,6 +40,7 @@ nano .gitignore
 ![Imagen 4](img/img4.png)
 ![Imagen 4.2](img/img4.2.png)
 - ¿Qué es el archivo .gitignore y para que sirve?
+El archivo .gitignore es un archivo de configuración utilizado en proyectos que usan Git. Sirve para especificar qué archivos o directorios deben ser ignorados por Git, es decir, que no sean rastreados ni incluidos en el repositorio.
 - Crea una estructura básica de web index.html, style.css, main.js.
 ```bash
 touch index.html style.css main.js
@@ -60,8 +61,12 @@ git commit -m "Inicio del proyecto con README.md y estructura básica"
 **Configura del repositorio remoto:**
 - Entra en GitHub y crea un repositorio.
 - ¿Qué pasa si creo un repositorio con el archivo README.md desde GitHub?
+  Se crea automáticamente un archivo README.me en el repositorio y se incuye como el primer commit.
 - ¿Qué pasa si crea un repositorio sin el archivo README.md desde GitHub?
+  El repositorio se crea vacío, sin el archivo README.me
 - Explica las diferencias entre las 2 preguntas anteriores.
+  Si creas un repositorio con el archivo README.md, este incluye un primer commit con el archivo, lo que permite clonarlo de inmediato y muestra información en la página principal. En cambio, si lo creas sin el archivo README.md, el repositorio estará vacío, sin commits iniciales, no podrá clonarse hasta que agregues archivos, y la página principal estará vacía.
+  
 - Indica que comandos te da GitHub al crear un repositorio. Los encontrarás en el apartado …or create a new repository on the command line
 ```bash
 echo "# prueba_m8" >> README.md
