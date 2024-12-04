@@ -20,7 +20,7 @@ nano README.md
 
 **Inicializa Git:**
 - Entra en el directorio y conviértelo en un repositorio Git.
-  ```bash
+```bash
 cd GitLopezAgusti2425
 ```
 ```bash
@@ -55,6 +55,15 @@ git commit -m "Inicio del proyecto con README.md y estructura básica"
 - ¿Qué pasa si crea un repositorio sin el archivo README.md desde GitHub?
 - Explica las diferencias entre las 2 preguntas anteriores.
 - Indica que comandos te da GitHub al crear un repositorio. Los encontrarás en el apartado …or create a new repository on the command line
+```bash
+echo "# prueba_m8" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/agustilopz/prueba_m8.git
+git push -u origin main
+```
 
 - Vincula el repositorio remoto con el repositorio local.
 ```bash
