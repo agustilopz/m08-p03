@@ -10,6 +10,7 @@ mkdir GitLopezAgusti2425
 ```bash
 mkdir GitLopezAgusti2425/src
 ```
+![Imagen 1](img/img1.png)
 - Crea un archivo README.md en GitApellido1Nombre2425 con una breve descripción del proyecto, usa costantemente el terminal.
 ```bash
 touch README.md
