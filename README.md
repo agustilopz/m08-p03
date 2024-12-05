@@ -177,17 +177,17 @@ git lg
 
 **Últimos pasos:**
 - Asegúrate de que todos los archivos estén en su lugar y realiza un push final al remoto.
-![Imagen 15](img/img15.png)
+  ![Imagen 15](img/img15.png)
 - Realiza una limpieza eliminando la rama feature/documentacion.
-- ![Imagen 16](img/img16.png)
+  ![Imagen 16](img/img16.png)
 
 **Explora el proyecto desde el terminal:**
 
 - Usa el comando necesario de Linux para listar el contenido de cada directorio.
-  - ![Imagen 17](img/img17.png)
+  ![Imagen 17](img/img17.png)
 - Muestra el contenido de los archivos finales con el comando necesario de Linux.
-  - ![Imagen 18](img/img18.png)
-  - ![Imagen 19](img/img19.png)
+  ![Imagen 18](img/img18.png)
+  ![Imagen 19](img/img19.png)
 
 
 *Este es un proyecto de ámbito académico para practicar los comandos de Linux así como el Markdown.*
