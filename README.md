@@ -1,6 +1,7 @@
 ### Práctica 3 - Agustí López
 
 *Este es un proyecto de ámbito académico para practicar los comandos de Linux así como Markdown.*
+*Enunciado: https://github.com/VelezBeatriz/ITB-M08-DAW1/blob/main/Act_remote.md*
 
 **Crear directorios y archivos**
 - Desde tu carpeta principal (~/), crea un directorio llamado GitApellido1Nombre2425.
